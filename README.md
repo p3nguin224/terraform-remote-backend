@@ -1,2 +1,5 @@
 # terraform-remote-backend
-test git and terraform 
+
+I made this change from browser.
+How to use this git and terraform?
+
